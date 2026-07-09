@@ -33,8 +33,6 @@ export default function CertificatesPage() {
             <Info label="Certificate Number" value="Q 7747/595" />
 
             <Info label="Date of Issue" value="1st of March 2024" />
-
-            <Info label="Chief Executive Officer" value="Rita Fragomeli" />
           </div>
 
           <div className="mt-10 border-t border-slate-200 pt-8">
@@ -47,7 +45,7 @@ export default function CertificatesPage() {
             </p>
 
             <a
-              href="/certificates/patricia-wambui-kasivu-certificate.pdf"
+              href="/certificates/certificate.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-5 inline-flex rounded-full bg-emerald-700 px-7 py-3 text-sm font-semibold text-white transition hover:bg-emerald-800"
